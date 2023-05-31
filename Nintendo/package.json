@@ -1,0 +1,13 @@
+{
+  "name": "nintendo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc --watch",
+    "serve": "serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
